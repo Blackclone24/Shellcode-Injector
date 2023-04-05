@@ -1,5 +1,5 @@
 # Shellcode-Injector
-Injects Shellcode in Process (even metersploit payloads fud)
+[FUD] Injects Shellcode in Process (even metersploit payloads fud)
 
 
 FUD x64 Shellcode injector which injects the shellcode to svchost.exe and makes even a meterpreter fud.
